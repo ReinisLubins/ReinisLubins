@@ -2,7 +2,8 @@ Hi there 👋 My name is Reinis Lubins!
 
 I am new Java developer
 
-![](https://user-images.githubusercontent.com/98021097/165129457-fbb59921-d1c0-43a2-85f6-66b4f2c2fe24.png =250x250)
+<image src="https://user-images.githubusercontent.com/98021097/165129457-fbb59921-d1c0-43a2-85f6-66b4f2c2fe24.png" width="50" heigth="50">
+![image](https://user-images.githubusercontent.com/98021097/165129457-fbb59921-d1c0-43a2-85f6-66b4f2c2fe24.png =250x250)
 ![image](https://user-images.githubusercontent.com/98021097/165130352-70940ba1-1673-4e60-97ba-a45498dd41fc.png)
 ![image](https://user-images.githubusercontent.com/98021097/165131080-eb841a43-7902-48f9-a454-06c1f13e13c3.png)
 ![image](https://user-images.githubusercontent.com/98021097/165131134-b83b19c4-42f7-4f00-8bf5-07f3b4b87c92.png)
