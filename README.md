@@ -1,7 +1,9 @@
-### Hi there 👋
+Hi there 👋 My name is Reinis Lubins!
 
-<!--
-**ReinisLubins/ReinisLubins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am new Java developer
+
+![image](https://user-images.githubusercontent.com/98021097/165129457-fbb59921-d1c0-43a2-85f6-66b4f2c2fe24.png)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
