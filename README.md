@@ -1,7 +1,12 @@
 Hi there 👋 My name is Reinis Lubins!
 
-I am new Java developer
+I am new Java developer who is ambitious to learn and improve.
 
+In my free time I like to workout, play all kinds of sports and learn something new, so
+I could constantly improve my body and mind.
+
+-------------------------------------------------------
+My toolBox:
 <div style="display: inline-block">
 <image src="https://user-images.githubusercontent.com/98021097/165129457-fbb59921-d1c0-43a2-85f6-66b4f2c2fe24.png" width="100" heigth="100">
 <image src="https://user-images.githubusercontent.com/98021097/165130352-70940ba1-1673-4e60-97ba-a45498dd41fc.png" width="200" heigth="200">
@@ -15,6 +20,8 @@ I am new Java developer
 <image src="https://user-images.githubusercontent.com/98021097/165131847-71574b23-d4fa-4e1c-af37-87117247d15c.png" width="200" heigth="200">
 <div>
 
+-------------------------------------------------------
+You can contact with me on <a href="https://www.linkedin.com/in/reinis-lubi%C5%86%C5%A1-67269222a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BesK7OG6lQQ6C4%2BROy1%2B4sg%3D%3D">linkedIn</a> or via email - reinis.lubins@gmail.com
 
 
 
