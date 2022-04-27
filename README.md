@@ -21,7 +21,7 @@ My toolBox:
 <div>
 
 -------------------------------------------------------
-You can contact with me on <a href="linkedin.com/in/reinis-lubins">linkedIn</a> or via email - reinis.lubins@gmail.com
+You can contact with me on <a href="https://www.linkedin.com/in/reinis-lubins/">linkedIn</a> or via email - reinis.lubins@gmail.com
 
 
 
