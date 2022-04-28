@@ -1,6 +1,6 @@
 Hi there 👋 My name is Reinis Lubins!
 
-I am new Java developer who is ambitious to learn and improve.
+I am a new Java developer who is ambitious to learn and improve.
 
 In my free time I like to workout, play all kinds of sports and learn something new, so
 I could constantly improve my body and mind.
